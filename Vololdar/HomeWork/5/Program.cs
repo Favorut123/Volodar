@@ -8,6 +8,7 @@ namespace lesson5
         {
             //string[] weekDays = ("");
             //for (int i = 0; i < weekDays.length; i++)
+            //{
 
             //}
             //Console.WriteLine("weekDays[i]");
